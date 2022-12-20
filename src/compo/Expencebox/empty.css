@@ -1,0 +1,14 @@
+#em{
+    padding-top:5%;
+    font-family:'fantasy';
+    display:flex;
+    justify-content:  center;
+    padding-bottom:5%;
+    font-size: larger;
+}
+#blo{
+    border-style:dashed;
+    border-color: aliceblue;
+    padding: 100px;
+    text-align: center;
+}

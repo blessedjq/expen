@@ -1,0 +1,11 @@
+#nav{
+    min-height:max-content;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    font-family:"Times New Roman", Times, serif;
+    font-size:larger;
+    font-weight: bolder;
+}
+
+
